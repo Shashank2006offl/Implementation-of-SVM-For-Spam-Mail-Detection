@@ -67,11 +67,11 @@ print(cl)
 ## Output:
 y_pred
 
-![image](https://github.com/user-attachments/assets/f56989ef-20ae-4fe9-ab58-c5fbed4d71bf)
+![image](https://github.com/user-attachments/assets/ab72d8b2-f383-4571-a5f1-815c14edad4c)
 
 Accuracy
 
-![image](https://github.com/user-attachments/assets/9356f432-894f-4635-9fd6-c427492dab79)
+![image](https://github.com/user-attachments/assets/3e68ea47-c519-4b15-aa1d-c45590f1d881)
 
 Confusion matrix
 
